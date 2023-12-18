@@ -1,0 +1,11 @@
+numpy
+polars
+pandas
+pyarrow
+seaborn
+matplotlib
+scikit-learn
+plotly
+nbformat
+pySankey
+statsmodels
